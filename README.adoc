@@ -1,0 +1,3 @@
+== Hoverfly-Junit
+
+This projcet has been renamed to Hoverfly-Java, and moved to a new home: https://github.com/SpectoLabs/hoverfly-java
