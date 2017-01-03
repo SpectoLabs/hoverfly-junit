@@ -1,3 +1,20 @@
 == Hoverfly-Junit
 
 This projcet has been renamed to Hoverfly-Java, and moved to a new home: https://github.com/SpectoLabs/hoverfly-java
+
+The latest version of Hoverfly-Junit is still availale on Maven Central:
+
+==== Maven Build
+If using Maven, add the following dependency to your pom:
+```xml
+<groupId>io.specto</groupId>
+<artifactId>hoverfly-junit</artifactId>
+<version>0.2.2</version>
+<scope>test</scope>
+```
+
+==== Gradle Build
+Or with Gradle add the dependency to your *.gradle file:
+```
+testCompile 'io.specto:hoverfly-junit:0.2.2'
+```
